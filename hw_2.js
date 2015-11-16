@@ -52,7 +52,7 @@ comp5 = {
   place: 'North park Burgas',
   distanceWinner: {
   	'42km':['Georgi Georgiev', 'Georgi Ivanov'],
-    '2km':['Peter Petrov'],
+      '2km':['Peter Petrov'],
   	'5km':['Ivan ivanov'],
   	'10km': ['Todor Todorov']
   },
