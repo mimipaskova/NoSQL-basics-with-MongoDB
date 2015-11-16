@@ -51,10 +51,10 @@ comp5 = {
   compName: 'Burgas2015',
   place: 'North park Burgas',
   distanceWinner: {
-	  '42km':['Georgi Georgiev', 'Georgi Ivanov'],
-    '2km':['Peter Petrov'],
+  	'42km':['Georgi Georgiev', 'Georgi Ivanov'],
+  	'2km':['Peter Petrov'],
   	'5km':['Ivan ivanov'],
-	  '10km': ['Todor Todorov']
+  	'10km': ['Todor Todorov']
   },
   participants: 23,
   sponsor: 'FMI'
